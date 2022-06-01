@@ -1,4 +1,4 @@
-package Assignment3Starter;
+package Game;
 
 import java.awt.Dimension;
 import java.awt.Graphics2D;
